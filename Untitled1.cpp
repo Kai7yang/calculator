@@ -6,7 +6,7 @@ int main() {
     double num1, num2, result;
     char operation;
 
-    cout << "簡單計算機" << endl;
+    cout << "計算機" << endl;
 
     // 讀取第一個數字
     cout << "請輸入第一個數字: ";
